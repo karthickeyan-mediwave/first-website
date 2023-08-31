@@ -7,3 +7,24 @@ h1 {
 h2 {
   font-family: sans-serif;
 }
+.second-section ul {
+  font-family: serif;
+  font-size: 17px;
+}
+.second-section p {
+  font-size: 17px;
+}
+.second-section a {
+  color: black;
+}
+input {
+  display: block;
+  border-block-color: black;
+  height: 25px;
+  width: 152px;
+}
+::placeholder {
+  font-size: 15px;
+  padding: 7px;
+  color: black;
+}
