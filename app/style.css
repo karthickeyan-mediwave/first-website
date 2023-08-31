@@ -1,5 +1,5 @@
 .first-section img {
-  border: 7px solid goldenrod;
+  border: 7px solid #d1a63c;
 }
 h1 {
   font-family: sans-serif;
@@ -19,7 +19,7 @@ h2 {
 }
 input {
   display: block;
-  border-block-color: black;
+  border: 2px solid black;
   height: 25px;
   width: 152px;
 }
@@ -27,4 +27,15 @@ input {
   font-size: 15px;
   padding: 7px;
   color: black;
+}
+.btn {
+  width: 160px;
+  height: 25px;
+  margin-top: 10px;
+  background: black;
+  color: white;
+  border: none;
+  font-size: 16px;
+  padding: 3px;
+  font-family: system-ui;
 }
